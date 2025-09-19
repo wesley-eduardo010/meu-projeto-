@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://scontent-gru2-1.cdninstagram.com/v/t1.15752-9/550744084_671491245456864_7352148335978079409_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=EjJXhHQPTe4Q7kNvwFwcwjl&_nc_oc=AdmdcOZv-HwY53vcAyn0hVeFzLw5WIVo-gL_rAslvHEztqRFe7d9dAL0L7vZTNQqMs8&_nc_zt=23&_nc_ht=scontent-gru2-1.cdninstagram.com&oh=03_Q7cD3QElGf9DYmj_onmUTV-V2OXKyJLDeYjNrYdWPOvAmmWq-Q&oe=68F50B7D" width="200" />
 </p>
+<p align="center">
+  <img src="https://github.com/SEU_USUARIO.png" width="200" style="border-radius:50%;" />
+</p>
+
 
 # 👋 Olá, eu sou o Wesley Eduardo  
 
