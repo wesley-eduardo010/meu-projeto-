@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://scontent-gru2-1.cdninstagram.com/v/t1.15752-9/550744084_671491245456864_7352148335978079409_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=EjJXhHQPTe4Q7kNvwFwcwjl&_nc_oc=AdmdcOZv-HwY53vcAyn0hVeFzLw5WIVo-gL_rAslvHEztqRFe7d9dAL0L7vZTNQqMs8&_nc_zt=23&_nc_ht=scontent-gru2-1.cdninstagram.com&oh=03_Q7cD3QElGf9DYmj_onmUTV-V2OXKyJLDeYjNrYdWPOvAmmWq-Q&oe=68F50B7D" width="200" style="border-radius:50%; border: 3px solid #00BFFF; box-shadow: 0px 0px 15px rgba(0,0,0,0.5);" />
+  <img src="https://instagram.faru4-2.fna.fbcdn.net/v/t51.2885-19/537646833_18084868366878885_8976109729516986490_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.faru4-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEtZ_vtjYz60TkFqPb9PFO7LiwwVOXe3NHh752mgHPqzObbmaodSzuyOZurvlMSunc&_nc_ohc=4QsruW9uPUgQ7kNvwFzCJjT&_nc_gid=Omwd6tKJSS_76Jwglg3ihQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afbt94SvBB95AcIVCodrHRNQVkUMjcG_b4U3YJSdYDHtvQ&oe=68D3877C&_nc_sid=10d13b" width="200" style="border-radius:50%; border: 3px solid #00BFFF; box-shadow: 0px 0px 15px rgba(0,0,0,0.5);" />
 </p>
 
 
