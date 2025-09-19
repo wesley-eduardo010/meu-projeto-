@@ -19,6 +19,6 @@
 ---
 
 ## 📫 Como me encontrar
-- 💼 LinkedIn: [wesley eduardo](https://www.linkedin.com/in/SEU_LINK)  
+- 💼 LinkedIn: [wesley eduardo](https://www.linkedin.com/in/wesley-eduardo-de-souza-019520382/)  
 - 📧 E-mail: giselevidotti7@gmail.com  
 
