@@ -1,7 +1,7 @@
 
-  <p align="center">
+<p align="center">
   <!-- Foto com borda azul e sombra -->
-  <img src="https://instagram.faru4-2.fna.fbcdn.net/v/t51.2885-19/537646833_18084868366878885_8976109729516986490_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.faru4-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEmZqAfPM8HoG552DBywoLb1nQ1iYHgD50ltwM6wlB1oaHCHlzTzoOe2uoxeQHqOok&_nc_ohc=LIsce38ndYEQ7kNvwESANSQ&_nc_gid=9jm7bcExHcWmx7zZuua_1A&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfbZyBh43Z0-cW1fgrUwfQ51LtddQdYMLR3YvScAoe9KXQ&oe=68D9AE7C&_nc_sid=7d3ac5" 
+  <img src="https://github.com/wesley-eduardo010.png" 
        width="200" 
        style="border-radius:50%; 
               border: 4px solid #1E90FF; 
@@ -13,11 +13,14 @@
 ---
 
 ## 👨‍🎓 Sobre Mim
-Sou estudante do curso **Técnico em Farmácia**, apaixonado por aprender e explorar novas áreas do conhecimento.  
-Tenho grande interesse por **saúde, tecnologia e programação** e quero unir essas áreas no futuro.
+Sou estudante do **SESI** e também estou cursando **Técnico em Farmácia**.  
+Além disso, faço o curso de **Linguagem de Programação no SENAI**, onde estou aprendendo a criar sites e aplicações.  
+Sou apaixonado por aprender, seja na área da saúde ou da tecnologia, e quero unir essas áreas no futuro.  
 
-- 🎓 Atualmente cursando **Técnico em Farmácia**  
-- 💻 Estudando programação (HTML, CSS, JavaScript, Python e Java)  
+- 🏫 Estudante no **SESI**  
+- 🎓 Cursando **Técnico em Farmácia**  
+- 💻 Estudando **Linguagem de Programação no SENAI**  
+- 🌐 Conhecimentos em HTML, CSS, JavaScript, Python e Java  
 - 🎸 Apaixonado por música e guitarra 🎶  
 - 🚀 Sonho em criar soluções que unam **saúde + tecnologia**  
 
@@ -25,15 +28,13 @@ Tenho grande interesse por **saúde, tecnologia e programação** e quero unir e
 
 ## 🛠️ Tecnologias & Ferramentas
 ### 🌐 Desenvolvimento
-- **Front-end:** HTML, CSS,   
+- **Front-end:** HTML e CSS
 - **Back-end:** JavaScript (iniciante), Python, Java  
 - **Banco de Dados:** MySQL  
 
 ### ⚙️ Ferramentas
 - **IDE/Editor:** VS Code  
 - **Controle de Versão:** Git & GitHub  
-
-
 
 
 
@@ -59,7 +60,7 @@ Tenho grande interesse por **saúde, tecnologia e programação** e quero unir e
 </p>
 
 💡 *"A cada dia, um novo aprendizado me aproxima dos meus objetivos."*
- 
+
 
 
 
