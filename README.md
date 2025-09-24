@@ -41,14 +41,16 @@ Gosto de transformar ideias em projetos reais e compartilhar conhecimento.
 
 ## 🌐 Onde me encontrar
 - 💼 LinkedIn: [wesley](https://www.linkedin.com/in/wesley-eduardo-de-souza-019520382/)  
-- 📧 E-mail: **giselevidotti7@gmail.com**  
+- 📧 E-mail: **giselevidotti7@gmail.com**
+- 📲 Numero: 18997361668
 
 ---
 
 ## ✨ Curiosidades
 - 🎮 Gosto de jogos competitivos e cooperativos online  
 - 📖 Leitura: curto livros de tecnologia, empreendedorismo e ficção  
-- 🏃‍♂️ Estilo de vida ativo: gosto de esportes e desafios pessoais  
+- 🏃‍♂️ Estilo de vida ativo: gosto de esportes e desafios pessoais
+- 🎸 Nas horas vagas gosto de tocar guitarra  
 
 ---
 
