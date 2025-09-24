@@ -16,7 +16,7 @@ Gosto de transformar ideias em projetos reais e compartilhar conhecimento.
 - 🎓 Faço curso de  [tecnico em farmacia.]  
 - 💻 Interesse especial em **Desenvolvimento Web, APIs e Bancos de Dados**  
 - 🎸 Nas horas vagas, gosto de música e toco guitarra  
-- 🌱 Atualmente aprendendo: **Node.js, React e boas práticas de Git**  
+   
  
 
 ---
